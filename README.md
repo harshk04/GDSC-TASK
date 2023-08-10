@@ -2,36 +2,42 @@
 
 
 ## Introduction
-Hello everyone! 😄 I'm thrilled to share my journey through the Google Developer Student Clubs (GDSC) Core Team selection tasks. This repository is a showcase of my skills and passion for the fields of Web Development and Machine Learning/Artificial Intelligence. Let's dive into the tasks I've completed:
+Hello everyone! 😄 Excited to share my journey through GDSC Core Team selection tasks. This repo showcases my skills in Web Development and Machine Learning. Let's explore my completed tasks:
 
 
-****Task 1: Web Development 💻****
+# Task 1: Web Development 💻
+
 For this task, I embarked on a journey to create a captivating portfolio website that reflects who I am, my skills, and the projects I've worked on. You can explore my responsive website at https://harshk.is-a.dev/. Here's a breakdown of the tabs I've included:
 
-**About Me:** Get to know me better and understand my background and interests.
-**Skills and Abilities:** A comprehensive list of my skills and abilities that demonstrate my expertise.
-**Education:** Details about my academic journey, including institutions and degrees.
-**Projects Made:** An overview of the projects I've undertaken, showcasing my practical experience.
-**Experiences:** Information about any professional experiences I've gained.
-**Certifications:** Highlights of Certifications I've earned to enhance my skill set.
+1. **About Me:** Get to know me better and understand my background and interests.
+
+2. **Skills and Abilities:** A comprehensive list of my skills and abilities that demonstrate my expertise.
+
+3. **Education:** Details about my academic journey, including institutions and degrees.
+
+4. **Projects Made:** An overview of the projects I've undertaken, showcasing my practical experience.
+
+5. **Experiences:** Information about any professional experiences I've gained.
+
+6. **Certifications:** Highlights of Certifications I've earned to enhance my skill set.
 
 I believe in the power of responsive design, and I've ensured that my website adapts seamlessly to different screen sizes and devices.
 
 
+<img width="800" alt="Screenshot 2023-08-10 at 10 54 42 PM" src="https://github.com/harshk04/harshk04.github.io/assets/115946158/0a78137e-6cc6-4a3a-9b06-fc8d67cb3b22">
 
 
-
-****Task 2: ML/AI Development - Option 1 🤖****
+# Task 2: ML/AI Development - Option 1 🤖
 
 In the domain of Machine Learning and Artificial Intelligence, I embraced Option 1: Data Visualization and Classification. My focus was the Abalone Dataset from Kaggle, a treasure trove of data.
 
 My approach:
 
-**In-Depth EDA:** I dived into the dataset, using visualizations to unveil insights. Patterns emerged, guiding subsequent steps.
+1. **In-Depth EDA:** I dived into the dataset, using visualizations to unveil insights. Patterns emerged, guiding subsequent steps.
 
-**Crafting the Model:** I created a bespoke Multiple Linear Regression model using the sklearn library. Tailored to the data's complexity, it predicted abalone age based on physical traits.
+2. **Crafting the Model:** I created a bespoke Multiple Linear Regression model using the sklearn library. Tailored to the data's complexity, it predicted abalone age based on physical traits.
 
-**Metrics for Performance:** Leveraging `sklearn.metrics`, I gauged the model. Metrics like MAE and RMSE provided clarity on predictive power and generalization.
+3. **Metrics for Performance:** Leveraging `sklearn.metrics`, I gauged the model. Metrics like MAE and RMSE provided clarity on predictive power and generalization.
 
 Notably, my Multiple Linear Regression model isn't off-the-shelf; I crafted it to suit the dataset. This underscores my grasp of ML concepts and hands-on aptitude.
 
