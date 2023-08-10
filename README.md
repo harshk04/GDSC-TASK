@@ -1,7 +1,5 @@
 # GDSC Core Team Selection Tasks
 
-
-## Introduction
 Hello everyone! 😄 Excited to share my journey through GDSC Core Team selection tasks. This repo showcases my skills in Web Development and Machine Learning. Let's explore my completed tasks:
 
 
