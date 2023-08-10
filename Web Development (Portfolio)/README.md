@@ -12,9 +12,6 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
-
 ## 📌 Sneak Peek of Main Page 🙈 :
 <img width="1440" alt="Screenshot 2023-07-10 at 11 21 01 PM" src="https://github.com/harshk04/harshk04.github.io/assets/115946158/220362c5-e38a-4a42-9091-f2cc93118184">
 <img width="1439" alt="Screenshot 2023-07-10 at 11 22 23 PM" src="https://github.com/harshk04/harshk04.github.io/assets/115946158/cd426e91-ea20-415f-b510-567603bc8840">
