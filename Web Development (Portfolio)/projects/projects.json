@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Heart Disease Prediction ",
+    "desc": "Logistic regression model in interactive web application predicts heart disease presence using user input and Streamlit.",
+    "image": "disease",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/harshk04/Heart-disease-Prediction/blob/main/model.py",
+      "code": "https://github.com/harshk04/Heart-disease-Prediction"
+    }
+  },
+  {
+    "name": "Health Insurance Price Prediction ",
+    "desc": "This repo houses a health insurance cost prediction model using machine learning. It offers estimates via a user-friendly Streamlit web app.",
+    "image": "health",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/harshk04/insurance-price-prediction/blob/main/model.py",
+      "code": "https://github.com/harshk04/insurance-price-prediction"
+    }
+  },
+  {
+    "name": "Iris Classification",
+    "desc": "This repository features a Logistic Regression-based Iris data classification model trained on the well-known Iris dataset, encompassing flower measurements and species.",
+    "image": "iris",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/harshk04/iris-data/blob/main/model.ipynb",
+      "code": "https://github.com/harshk04/iris-data"
+    }
+  },
+  {
+    "name": "IntelliBot (Chatbot)",
+    "desc": "Intellibot is an AI-powered chatbot developed using Python, trained on English language data from various fields. ",
+    "image": "chatbot",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/harshk04/Intellibot_Chatbot/blob/main/main.py",
+      "code": "https://github.com/harshk04/Intellibot_Chatbot"
+    }
+  },
+  {
+    "name": "QR Code Generator",
+    "desc": "QR Code Generator with Tkinter is a Python project that allows you to generate QR codes from input links and display them on the screen.",
+    "image": "qr",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/harshk04/QR_Generator/blob/main/QR_Generator.ipynb",
+      "code": "https://github.com/harshk04/QR_Generator"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "mern",
+    "links": {
+      "view": "https://harshk.is-a.dev/",
+      "code": "https://github.com/harshk04/harshk04.github.io"
+    }
+  },
+  {
+    "name": "WeatherApp",
+    "desc": "A simple weather website that displays the current weather of the location searched. It uses Ninja-API for fetching data.",
+    "image": "weather",
+    "category": "mern",
+    "links": {
+      "view": "https://harshk.is-a.dev/Weatherapp/",
+      "code": "https://github.com/harshk04/Weatherapp"
+    }
+  },
+  {
+    "name": "Netflix Landing Page Clone",
+    "desc": "This is the core code from scratch to clone the landing page of Netflix using HTML, CSS and JavaScript.",
+    "image": "netflix",
+    "category": "mern",
+    "links": {
+      "view": "https://harshk.is-a.dev/Netflix_clone/",
+      "code": "https://github.com/harshk04/Netflix_clone"
+    }
+  },
+  {
+    "name": "Temperature Converter",
+    "desc": "The Temperature Conversion Tool simplifies temperature conversion between Celsius and Fahrenheit scales, offering a user-friendly and efficient solution.",
+    "image": "temperature",
+    "category": "android",
+    "links": {
+      "view": "harshk.is-a.dev/TemperatureConverter/",
+      "code": "https://github.com/harshk04/TemperatureConverter"
+    }
+  },
+  {
+    "name": "Movie Ticket Booking System",
+    "desc": "The primary objective of the system is to allows users to browse movie listings, select a showtime and choose their seats for their tickets online.",
+    "image": "movie",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/harshk04/Movie_Ticket_Booking_System/blob/main/main.cpp",
+      "code": "https://github.com/harshk04/Movie_Ticket_Booking_System"
+    }
+  }
+  
+  
+]
