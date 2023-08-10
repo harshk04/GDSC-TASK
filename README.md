@@ -2,7 +2,7 @@
 
 Hello everyone! 😄 Excited to share my journey through GDSC Core Team selection tasks. This repo showcases my skills in Web Development and Machine Learning. Let's explore my completed tasks:
 
-# Task 1: ML/AI Development - Option 1 🤖
+# Task 1: ML/AI Development - Preference 1 🤖
 
 In the domain of Machine Learning and Artificial Intelligence, I embraced Option 1: Data Visualization and Classification. My focus was the Abalone Dataset from Kaggle, a treasure trove of data.
 
