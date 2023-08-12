@@ -2,7 +2,7 @@
 
 Hello everyone! 😄 Excited to share my journey through GDSC Core Team selection tasks. This repo showcases my skills in Web Development and Machine Learning. Let's explore my completed tasks:
 
-# Task 1: ML/AI Development - Preference 1 🤖
+# Preference 1: ML/AI Development🤖
 
 In the domain of Machine Learning and Artificial Intelligence, I embraced Option 1: Data Visualization and Classification. My focus was the Abalone Dataset from Kaggle, a treasure trove of data.
 
@@ -16,7 +16,7 @@ My approach:
 
 Notably, my Multiple Linear Regression model isn't off-the-shelf; I crafted it to suit the dataset. This underscores my grasp of ML concepts and hands-on aptitude.
 
-# Task 2: Web Development 💻
+# Web Development 💻
 
 For this task, I embarked on a journey to create a captivating portfolio website that reflects who I am, my skills, and the projects I've worked on. You can explore my responsive website at https://harshk.is-a.dev/. Here's a breakdown of the tabs I've included:
 
