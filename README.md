@@ -20,7 +20,8 @@ Notably, my Multiple Linear Regression model isn't off-the-shelf; I crafted it t
 
 ##### PDF FILE
 Here is the PDF file of Jupyter Notebook in which the task is performed:
-[mltask.pdf](https://github.com/harshk04/GDSC-TASK/files/12315996/model2.pdf)
+[ML TASK.pdf](https://github.com/harshk04/GDSC-TASK/files/12328018/ML.TASK.GDSC.pdf)
+
 
 # Web Development 💻
 
