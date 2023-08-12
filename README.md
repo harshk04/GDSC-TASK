@@ -16,7 +16,7 @@ My approach:
 
 Notably, my Multiple Linear Regression model isn't off-the-shelf; I crafted it to suit the dataset. This underscores my grasp of ML concepts and hands-on aptitude.
 
-<img width="1179" alt="Screenshot 2023-08-12 at 12 50 42 PM" src="https://github.com/harshk04/GDSC-TASK/assets/115946158/46bf8e29-6938-4284-9a39-8229cb7151e9">
+<img width="800" alt="Screenshot 2023-08-12 at 12 53 34 PM" src="https://github.com/harshk04/GDSC-TASK/assets/115946158/854f45a2-c2a0-4b1e-b660-6a20a7cab475">
 
 ##### PDF FILE
 Here is the PDF file of Jupyter Notebook in which the task is performed:
