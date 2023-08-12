@@ -18,6 +18,9 @@ Notably, my Multiple Linear Regression model isn't off-the-shelf; I crafted it t
 
 <img width="1179" alt="Screenshot 2023-08-12 at 12 50 42 PM" src="https://github.com/harshk04/GDSC-TASK/assets/115946158/46bf8e29-6938-4284-9a39-8229cb7151e9">
 
+##### PDF FILE
+Here is the PDF file of Jupyter Notebook in which the task is performed:
+[mltask.pdf](https://github.com/harshk04/GDSC-TASK/files/12315996/model2.pdf)
 
 # Web Development 💻
 
