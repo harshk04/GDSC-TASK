@@ -16,6 +16,9 @@ My approach:
 
 Notably, my Multiple Linear Regression model isn't off-the-shelf; I crafted it to suit the dataset. This underscores my grasp of ML concepts and hands-on aptitude.
 
+<img width="1179" alt="Screenshot 2023-08-12 at 12 50 42 PM" src="https://github.com/harshk04/GDSC-TASK/assets/115946158/46bf8e29-6938-4284-9a39-8229cb7151e9">
+
+
 # Web Development 💻
 
 For this task, I embarked on a journey to create a captivating portfolio website that reflects who I am, my skills, and the projects I've worked on. You can explore my responsive website at https://harshk.is-a.dev/. Here's a breakdown of the tabs I've included:
